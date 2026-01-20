@@ -1,0 +1,9 @@
+*.log 
+*.pot
+*.pyc
+*.env
+venv/
+env/
+ENV/
+
+celerybeat-schedule
